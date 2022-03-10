@@ -13,8 +13,13 @@
 }
 
 .header > a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit;
   font-size: 30px;
   margin-right: 20px;
   margin-top: 20px;
 }
 
+.is-active {
+  font-size: 40px !important;
+}

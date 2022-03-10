@@ -17,9 +17,11 @@
     </div>
   </div>
   <div class="cards">
-    <app-product-card
-      *ngFor="let product of (products | sortByDate:dateSort | filterByName:search | filterAlphabetically:alphSort)"
-      [myProduct]="product">
-    </app-product-card>
+    <a *ngFor="let product of (products | sortByDate:dateSort | filterByName:search | filterAlphabetically:alphSort)"
+      [routerLink]="
+    ['product', product.id ]">
+      <app-product-card [myProduct]=" product">
+      </app-product-card>
+    </a>
   </div>
 </div>

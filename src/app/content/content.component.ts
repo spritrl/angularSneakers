@@ -28,11 +28,28 @@ export class ContentComponent implements OnInit {
 
   constructor(private productsService: ProductsService) { }
 
+  setData(data) {
+    const jsonData = JSON.stringify(data)
+    localStorage.setItem('sneakersSetted', jsonData)
+  }
+
+  getData() {
+    return localStorage.getItem('sneakersSetted')
+  }
 
   ngOnInit(): void {
     this.search = "";
-    this.productsService.createProducts();
-    this.products = this.productsService.getAllProducts();
+    console.log('this.getData()', this.getData());
+    if (!this.getData()) {
+      console.log('if (!this.getData()) {');
+      this.productsService.createProducts();
+      this.setData(true);
+    } else {
+      console.log('else (!this.getData()) {');
+    }
+    if (!this.products) {
+      this.products = this.productsService.getAllProducts();
+    }
     console.log('ngOnInit(): void {', this.products);
     this.title = "Sneakers";
     this.dateSort = "asc";
