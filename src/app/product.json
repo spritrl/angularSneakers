@@ -1,0 +1,316 @@
+[
+  {
+    "title": "Nike Dunk Low",
+    "description": "Retro White Black (2021)",
+    "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1644250003&h=320",
+    "price": 210,
+    "likes": 433,
+    "releaseDate": "01-06-2022",
+    "isLiked": false,
+    "size": [
+      "XL",
+      "M"
+    ],
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 200
+      },
+      {
+        "size": "43",
+        "price": 200
+      },
+      {
+        "size": "44",
+        "price": 200
+      },
+      {
+        "size": "45",
+        "price": 200
+      },
+      {
+        "size": "46",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "title": "Jordan 1 Retro High OG",
+    "description": "Patent Bred",
+    "imageUrl": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-OG-Bred-Patent/Images/Air-Jordan-1-Retro-High-OG-Bred-Patent/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1634062853&h=320",
+    "price": 246,
+    "likes": 100,
+    "releaseDate": "01-08-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 246
+      },
+      {
+        "size": "43",
+        "price": 276
+      },
+      {
+        "size": "44",
+        "price": 256
+      },
+      {
+        "size": "45",
+        "price": 246
+      },
+      {
+        "size": "46",
+        "price": 246
+      }
+    ]
+  },
+  {
+    "title": "Nike Dunk Low",
+    "description": "Grey Fog",
+    "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Grey-Fog/Images/Nike-Dunk-Low-Grey-Fog/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1635858660&h=320",
+    "price": 223,
+    "likes": 433,
+    "releaseDate": "01-07-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 223
+      },
+      {
+        "size": "43",
+        "price": 223
+      },
+      {
+        "size": "44",
+        "price": 223
+      },
+      {
+        "size": "45",
+        "price": 223
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "title": "Nike Dunk High",
+    "description": "Championship Navy",
+    "imageUrl": "https://images.stockx.com/360/Nike-Dunk-High-Midnight-Navy/Images/Nike-Dunk-High-Midnight-Navy/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1635755648&h=320",
+    "price": 163,
+    "likes": 100,
+    "releaseDate": "01-08-2021",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 163
+      },
+      {
+        "size": "43",
+        "price": 163
+      },
+      {
+        "size": "44",
+        "price": 163
+      },
+      {
+        "size": "45",
+        "price": 246
+      },
+      {
+        "size": "46",
+        "price": 246
+      }
+    ]
+  },
+  {
+    "title": "Jordan 4 Retro",
+    "description": "University Blue",
+    "imageUrl": "https://images.stockx.com/360/Air-Jordan-4-Retro-University-Blue/Images/Air-Jordan-4-Retro-University-Blue/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1635344971&h=320",
+    "price": 473,
+    "likes": 433,
+    "releaseDate": "01-01-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 473
+      },
+      {
+        "size": "43",
+        "price": 473
+      },
+      {
+        "size": "44",
+        "price": 473
+      },
+      {
+        "size": "45",
+        "price": 473
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "title": "Jordan 1 Retro AJKO",
+    "description": "Storm Blue",
+    "imageUrl": "https://images.stockx.com/360/Air-Jordan-1-Retro-KO-High-Storm-Blue/Images/Air-Jordan-1-Retro-KO-High-Storm-Blue/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1644930801&h=320",
+    "price": 196,
+    "likes": 233,
+    "releaseDate": "01-04-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 196
+      },
+      {
+        "size": "43",
+        "price": 196
+      },
+      {
+        "size": "44",
+        "price": 196
+      },
+      {
+        "size": "45",
+        "price": 473
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "title": "Nike Dunk Low",
+    "description": "Green Glow (W)",
+    "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Green-Glow-W/Images/Nike-Dunk-Low-Green-Glow-W/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1635188046&h=320",
+    "price": 260,
+    "likes": 263,
+    "releaseDate": "01-04-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 260
+      },
+      {
+        "size": "43",
+        "price": 260
+      },
+      {
+        "size": "44",
+        "price": 260
+      },
+      {
+        "size": "45",
+        "price": 473
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "title": "Jordan 12 Retro",
+    "description": "Twist",
+    "imageUrl": "https://images.stockx.com/360/Air-Jordan-12-Retro-Twist/Images/Air-Jordan-12-Retro-Twist/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1634915635&h=320",
+    "price": 262,
+    "likes": 263,
+    "releaseDate": "01-08-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 262
+      },
+      {
+        "size": "43",
+        "price": 262
+      },
+      {
+        "size": "44",
+        "price": 262
+      },
+      {
+        "size": "45",
+        "price": 262
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "title": "New Balance 2002R",
+    "description": "Protection Pack Rain Cloud",
+    "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Strike-Yellow-W/Images/Nike-Dunk-Low-Strike-Yellow-W/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1635345513&h=320",
+    "price": 402,
+    "likes": 263,
+    "releaseDate": "01-18-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 402
+      },
+      {
+        "size": "43",
+        "price": 402
+      },
+      {
+        "size": "44",
+        "price": 402
+      },
+      {
+        "size": "45",
+        "price": 402
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  },
+  {
+    "title": "Nike Dunk Low",
+    "description": "Yellow Strike (W)",
+    "imageUrl": "https://images.stockx.com/360/New-Balance-M2002-Protection-Pack-Rain-Cloud/Images/New-Balance-M2002-Protection-Pack-Rain-Cloud/Lv2/img01.jpg?fm=avif&auto=compress&w=480&q=90&dpr=1&updated_at=1641985992&h=320",
+    "price": 136,
+    "likes": 263,
+    "releaseDate": "01-28-2022",
+    "isLiked": false,
+    "priceTable": [
+      {
+        "size": "42",
+        "price": 136
+      },
+      {
+        "size": "43",
+        "price": 136
+      },
+      {
+        "size": "44",
+        "price": 136
+      },
+      {
+        "size": "45",
+        "price": 136
+      },
+      {
+        "size": "46",
+        "price": 223
+      }
+    ]
+  }
+]

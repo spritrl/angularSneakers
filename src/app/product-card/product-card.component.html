@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="card">
+    <img src={{myProduct.imageUrl}} width="200">
+    <h1>{{myProduct?.title}}</h1>
+    <select>
+      <option *ngFor="let prices of myProduct.priceTable" [value]="prices.size">
+        {{ prices.size }} - {{ prices.price | currency:'EUR' }}
+      </option>
+    </select>
+    <p>{{myProduct?.description}}</p>
+    <p>Jour de Sortie : {{myProduct?.releaseDate | date:'EEEE d MMMM y'}}</p>
+    <div>
+      <b>{{myProduct?.likes}} ⭐️ </b>
+      <button (click)="onLike()">{{myProduct?.isLiked ? "UnFavoris" : "Favoris"}}</button>
+    </div>
+  </div>
+</div>
