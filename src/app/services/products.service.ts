@@ -25,6 +25,7 @@ export class ProductsService {
       })
       console.log('let prices', pricesT);
       let newElement = new ProductModel(
+        element.id,
         element.title,
         element.description,
         element.imageUrl,
@@ -43,6 +44,13 @@ export class ProductsService {
   getAllProducts(): ProductModel[] {
     console.log('this.products', this.products);
     return this.products;
+  }
+
+  getOneProducts(id: number): ProductModel {
+    console.warn('getOneProducts(id: number): ProductModel {', this.products)
+    let theproducts = this.products.find((p) => p.id == id);
+    console.warn('getOneProducts(id: number): ProductModel {', theproducts);
+    return theproducts;
   }
 
   onLikeProduct(product: ProductModel): void {

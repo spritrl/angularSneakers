@@ -14,6 +14,7 @@ import { FormsModule } from '@angular/forms';
 import { TheHeaderComponent } from './the-header/the-header.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContentComponent } from './content/content.component';
+import { ProductDetailComponent } from './product-detail/product-detail.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { ContentComponent } from './content/content.component';
     TheHeaderComponent,
     FooterComponent,
     ContentComponent,
+    ProductDetailComponent,
   ],
   imports: [
     BrowserModule,

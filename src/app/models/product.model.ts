@@ -2,6 +2,7 @@ import { PriceTable } from "./priceTable.models";
 
 export class ProductModel {
   constructor(
+    public id: number,
     public title: string,
     public description: string,
     public imageUrl: string,

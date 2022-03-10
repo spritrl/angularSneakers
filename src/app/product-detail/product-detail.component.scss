@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  align-items: center;
+}
+
+.content > a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
