@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class PriceTable {\n  constructor(size, price) {\n    this.size = size;\n    this.price = price;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
