@@ -13,6 +13,7 @@ import { FilterAlphabeticallyPipe } from './pipes/filterAlphabetically.pipe';
 import { FormsModule } from '@angular/forms';
 import { TheHeaderComponent } from './the-header/the-header.component';
 import { FooterComponent } from './footer/footer.component';
+import { ContentComponent } from './content/content.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { FooterComponent } from './footer/footer.component';
     FilterAlphabeticallyPipe,
     TheHeaderComponent,
     FooterComponent,
+    ContentComponent,
   ],
   imports: [
     BrowserModule,

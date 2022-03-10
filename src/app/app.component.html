@@ -1,30 +1,5 @@
 <div class="view">
   <app-header></app-header>
-  <div class="content">
-    <div class="search">
-      <a>Rechercher</a>
-      <input type="text" id="search" name="search" [(ngModel)]="search" />
-    </div>
-    <div class="selectors">
-      <div class="selector">
-        <select (change)="sortDate($event.target.value)">
-          <option *ngFor=" let i of sortValues">{{i.label}}</option>
-        </select>
-      </div>
-
-      <div class="selector">
-        <select (change)="orderby($event.target.value)">
-          <option *ngFor=" let i of orderValues">{{i.label}}</option>
-        </select>
-      </div>
-    </div>
-    <div class="cards">
-      <app-product-card
-        *ngFor="let product of (products | sortByDate:dateSort | filterByName:search | filterAlphabetically:alphSort)"
-        [myProduct]="product">
-      </app-product-card>
-    </div>
-  </div>
+  <router-outlet></router-outlet>
   <app-footer></app-footer>
 </div>
-<router-outlet></router-outlet>
